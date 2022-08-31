@@ -2,25 +2,28 @@
 
 # Johan Sandberg
 
+Ex-medical student who decided to drop out and follow a career path more compatible with my personality and interests.
 
+I'm also a recent father of two twin girls [^1].
 
+[^1]: ~11 months old.
 
 ---
 
 ## Studies
 
-I have studied medicine for several years, and a few mathematics courses at the bachelor level.
+I studied medicine for several years but did not stick it out for a degree. I also completed a few mathematics courses at the bachelor level.
+
+Currently a student at [IT-hogskolan][iths].
+
+[iths]: https://www.iths.se/
 
 ---
 
 ## Work experience
 
-Through medical school I got a research scholarship. Eventually I got a position in the same group on a project about suicide prediction.
+Through medical school I got a research scholarship. Eventually I managed to get a position as a researcher in that same research group for a few years.
 
-[Stocky dashboard][stock_dash]  a simple dashboard app deployed in Heroku[^1] |
-
-[^1]: Due to free dyno in Heroku, it takes some time for loading the page the first time because it needs to be started, but after it has started up, the app is fast.
-
-[stock_dash]: https://stocky-dashboard.herokuapp.com/
+While I have no formal background in programming or statistics, I have some applied experience in programming (using R) and basic statistics.
 
 ---
