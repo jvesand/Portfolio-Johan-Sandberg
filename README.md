@@ -15,7 +15,7 @@ I have studied medicine for several years, and a few mathematics courses at the 
 
 ## Work experience
 
-
+Through medical school I got a research scholarship. Eventually I got a position in the same group on a project about suicide prediction.
 
 [Stocky dashboard][stock_dash]  a simple dashboard app deployed in Heroku[^1] |
 
